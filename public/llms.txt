@@ -1,0 +1,55 @@
+# מלון ניר עציון Resort — Generative Engine Optimization Map
+
+> A אירוח ותיירות business.
+
+---
+
+## Pages
+
+### Home
+https://resort-5fd5d3b0.zappy5.app
+
+### Stay & Experience
+https://resort-5fd5d3b0.zappy5.app/stay
+
+### Events & Meetings
+https://resort-5fd5d3b0.zappy5.app/events
+
+### Contact
+https://resort-5fd5d3b0.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://resort-5fd5d3b0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://resort-5fd5d3b0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://resort-5fd5d3b0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מלון ניר עציון Resort
+מלון ניר עציון Resort is a business in the אירוח ותיירות industry.
+
+## Target Audience
+- נסיגות עסקיות
+- תיירים מקומיים
+- מתכנני אירועים
+
+## Industry
+אירוח ותיירות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://resort-5fd5d3b0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://resort-5fd5d3b0.zappy5.app/robots.txt

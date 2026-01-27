@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resort-5fd5d3b0.zappy5.app/sitemap.xml
